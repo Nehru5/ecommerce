@@ -53,3 +53,33 @@
   height: 300px;
   background-color: orange;
 }
+.products-list{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.product-data{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.product-data img{
+  box-shadow: 0 0 10px;
+  border-radius: 8px;
+  padding: 10px;
+}
+.product-data button{
+  padding: 15px;
+  background-color: orange;
+  font-weight: bolder;
+  border: none;
+  border-radius: 10px;
+}
+
+.link{
+  color: white;
+  text-decoration: none;
+}

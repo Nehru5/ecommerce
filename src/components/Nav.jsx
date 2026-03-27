@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom'
 const Nav = () => {
   return (
     <>
@@ -8,7 +8,7 @@ const Nav = () => {
           <h2>Cartify</h2>
         </div>
         <div className="right">
-          <h2>Products</h2>
+          <Link className='link' to={"/products"}><h2>Products</h2></Link>
           <h2>Cart</h2>
         </div>
       </div>

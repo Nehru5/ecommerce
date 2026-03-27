@@ -1,4 +1,39 @@
 {
-  "products":[],
+  "products":[{
+    "id":1,
+    "name":"Samsung F23",
+    "category":"Mobiles",
+    "image":"https://www.jiomart.com/images/product/original/493666095/samsung-galaxy-f-series-f23-5g-128-gb-4-gb-ram-copper-blush-mobile-phone-digital-o493666095-p600340990-0-202601081723.jpeg?im=Resize=(420,420)",
+    "price":20000,
+    "description":"Samsung Galaxy F Series F23 5G 128 GB, 4 GB RAM, Copper Blush, Mobile Phone",
+    "ratings":4.5
+  },{
+    "id":2,
+    "name":"HP laptop",
+    "category":"Laptop",
+    "image":"https://png.pngtree.com/png-clipart/20250523/original/pngtree-modern-laptop-computer-with-screen-open-technology-digital-device-png-image_21059292.png",
+    "price":50000,
+    "description":"ROG Strix G16, Gaming Laptop, AMD Ryzen 9 8940HX, RTX 5050 GPU (16GB/1TB/40.64 cms (16) FHD+/Windows 11 Home/Office Home 2024 + M365 Basic (1 Year Validity)*) G614PH-RV033WS",
+    "ratings":4.5
+  },
+  {
+    "id":3,
+    "name":"Maaza",
+    "category":"Drinks",
+    "image":"https://m.media-amazon.com/images/I/61+jGc7vLIL.jpg",
+    "price":30000,
+    "description":"Maaza Mango Drink, Original Flavour, 1.2 Liter PET Bottle : Amazon.in: Grocery & Gourmet Foods",
+    "ratings":4.5
+  },
+  {
+    "id":4,
+    "name":"Samsung Smart TV",
+    "category":"Smart TV",
+    "image":"https://img-prd-pim.poorvika.com/product/samsung-full-hd-led-smart-tv-t5410-43-inch-left-view.png",
+    "price":90000,
+    "description":"80 cm (32 inch) HD Ready LED Smart Tizen TV with Voice Assistance Remote Control | 100+ Free Channels | HDR 10+ Support | PurColor | Samsung Knox Security | Digital Tuner | Object Tracking Sound Lite | Adaptive Sound | Q-Symphony (UA32H4500FUXXL)",
+    "ratings":3.4
+  }
+],
   "orders":[]
 }
